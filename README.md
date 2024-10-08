@@ -25,7 +25,7 @@
 
 ### Modifications
 
-* Remove the 'fDownforceModifier' line if it exists;
+* Remove the 'fDownforceModifier' line if it exists; (It's not necessary, but I recommend it)
 * Add CCarHandlingData in the SubHandlingData section, like this:
     ```
     <SubHandlingData>
