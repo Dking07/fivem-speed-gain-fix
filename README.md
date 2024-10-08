@@ -15,7 +15,7 @@
 
 ## HOW TO INSTALL
 
-* [Download](https://dking.tebex.io/package/6491407) script;
+* [Download](https://keymaster.fivem.net/asset-grants) script;
 * Place it in the resources folder;
 * Add 'ensure dk_antibump' (without quotes) to server.cfg.
 
