@@ -42,7 +42,7 @@
 
 ## Discord
 
-### [Dking Warehouse]([https://stfly.me/dkingwarehouse](https://discord.gg/Rw6vjcXspG))
+### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
 
 # COPYRIGHT
 
