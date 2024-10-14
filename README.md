@@ -11,11 +11,11 @@
 
 ## PURCHASE
 
-* [TEBEX](https://dking.tebex.io/package/6491407)
+* [TEBEX](https://stfly.me/antibumptebex)
 
 ## HOW TO INSTALL
 
-* [Download](https://keymaster.fivem.net/asset-grants) script;
+* [Download](https://stfly.me/keymasterassets) script;
 * Place it in the resources folder;
 * Add 'ensure dk_antibump' (without quotes) to server.cfg.
 
@@ -42,8 +42,8 @@
 
 ## Discord
 
-### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+### [Dking Warehouse](https://stfly.me/dkingwarehouse)
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2024 © 
+## BY [DKING](https://stfly.me/githubdking) 2024 © 
