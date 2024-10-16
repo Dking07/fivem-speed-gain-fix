@@ -1,4 +1,4 @@
-# DKING ANTIBUMP [STANDALONE]
+# DKING SPEED GAIN FIX [STANDALONE]
 
 ## DESCRIPTION
 
@@ -8,6 +8,7 @@
 
 * Removes speed ​​gains when going over bumps, potholes, and the like.
 * Removes speed ​​gain when using double clutching.
+* Remove tire related bugs, such as the off-road tire increasing grip and preventing the vehicle from being lowered by shooting the wheels/suspension.
 
 ## PURCHASE
 
@@ -35,6 +36,10 @@
         <Item type="NULL" />
     </SubHandlingData>
     ```
+
+## CONFIG
+
+* ### You can choose which flags will be applied through the configuration file.
 
 ## PREVIEW
 
