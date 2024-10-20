@@ -43,7 +43,7 @@
 
 ## PREVIEW
 
-### Coming soon...
+[](https://www.youtube.com/watch?v=fsVIcKNVZi0)
 
 ## Discord
 
