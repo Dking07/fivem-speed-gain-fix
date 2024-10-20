@@ -41,7 +41,7 @@
 
 ## CONFIG
 
-* ### You can choose which flags will be applied through the configuration file.
+* ### You can choose which effects will be applied through the configuration file.
 
 ## PREVIEW
 
