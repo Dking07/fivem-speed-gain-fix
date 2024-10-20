@@ -1,13 +1,15 @@
 # DKING SPEED GAIN FIX [STANDALONE]
 
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1297647826863521802/SPEED_GAIN_FIX.png?ex=6716b037&is=67155eb7&hm=460968d1379e1cd128dcd3093e69c11d448282de789c58b9eee855e7728c1d4a&)
+
 ## DESCRIPTION
 
 ### Fix Vehicles Speeds Gain.
 
 ## CHANGES
 
-* Removes speed ​​gains when going over bumps, potholes, and the like.
-* Removes speed ​​gain when using double clutching.
+* Removes speed gains when going over bumps, potholes, and the like.
+* Removes speed gain when using double clutching.
 * Remove tire related bugs, such as the off-road tire increasing grip and preventing the vehicle from being lowered by shooting the wheels/suspension.
 
 ## PURCHASE
@@ -43,7 +45,7 @@
 
 ## PREVIEW
 
-[![Video]()](https://www.youtube.com/watch?v=fsVIcKNVZi0)
+* [YouTube](https://www.youtube.com/watch?v=fsVIcKNVZi0)
 
 ## Discord
 
