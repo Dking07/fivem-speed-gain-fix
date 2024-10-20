@@ -43,7 +43,7 @@
 
 ## PREVIEW
 
-[](https://www.youtube.com/watch?v=fsVIcKNVZi0)
+![](https://www.youtube.com/watch?v=fsVIcKNVZi0)
 
 ## Discord
 
