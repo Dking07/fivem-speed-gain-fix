@@ -14,7 +14,7 @@
 
 ## PURCHASE
 
-* [TEBEX](https://dking.tebex.io/package/6491407)
+* [TEBEX](https://dking.tebex.io/package/6511460)
 
 ## HOW TO INSTALL
 
