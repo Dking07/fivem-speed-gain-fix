@@ -1,6 +1,6 @@
 # SPEED GAIN FIX [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1297647826863521802/SPEED_GAIN_FIX.png?ex=6716b037&is=67155eb7&hm=460968d1379e1cd128dcd3093e69c11d448282de789c58b9eee855e7728c1d4a&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1297647826863521802/SPEED_GAIN_FIX.png?ex=6723df37&is=67228db7&hm=d2ef2a11644fd2b9a47a68bdede0b414f279c0a48f86d4f232e8c4a12ea72d33&)
 
 ## DESCRIPTION
 
@@ -42,6 +42,7 @@
 ## CONFIG
 
 * ### You can choose which effects will be applied through the configuration file.
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1301351286008057906/SPEED_GAIN_FIX_config.png?ex=67242954&is=6722d7d4&hm=03d141c01886724ef1b3b580d665e3111b57e486f7cc85e3e6a4b435ce5c4b44&)
 
 ## PREVIEW
 
