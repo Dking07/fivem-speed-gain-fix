@@ -1,6 +1,6 @@
 # SPEED GAIN FIX [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1297647826863521802/SPEED_GAIN_FIX.png?ex=6723df37&is=67228db7&hm=d2ef2a11644fd2b9a47a68bdede0b414f279c0a48f86d4f232e8c4a12ea72d33&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1297647826863521802/SPEED_GAIN_FIX.png?ex=672c70f7&is=672b1f77&hm=b6a7d3e1124859f91b75ceed17227018e25a8f882d2165ff32fee3a6b5047cd0&)
 
 ## DESCRIPTION
 
@@ -42,7 +42,7 @@
 ## CONFIG
 
 * ### You can choose which effects will be applied through the configuration file.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1301351286008057906/SPEED_GAIN_FIX_config.png?ex=67242954&is=6722d7d4&hm=03d141c01886724ef1b3b580d665e3111b57e486f7cc85e3e6a4b435ce5c4b44&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1303631218977538048/SPEED_GAIN_FIX_config_V1.1.png?ex=672c74ae&is=672b232e&hm=c2f818ce0af859c07f3faf8888dc4f3f5a347f0362ecff74fe1e014c50535906&)
 
 ## PREVIEW
 
@@ -51,6 +51,14 @@
 ## Discord
 
 ### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+
+## CHANGELOG
+
+### 1.1
+
+* Changed the method for selecting flags, now each flag has an identifier;
+* Added a blacklist to include vehicles that will not be affected by the flags, even if they have 'CCarHandlingData' present in their handling.
+
 
 # COPYRIGHT
 
