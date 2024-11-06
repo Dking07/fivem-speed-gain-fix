@@ -42,6 +42,7 @@
 ## CONFIG
 
 * ### You can choose which effects will be applied through the configuration file.
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1301351286008057906/SPEED_GAIN_FIX_config.png?ex=672c1254&is=672ac0d4&hm=68758b2479afbce7f75b0efbdf2f0247e9ca39671f415f953c2106b824558cfb&)
 
 ## PREVIEW
 
