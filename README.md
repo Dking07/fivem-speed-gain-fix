@@ -42,7 +42,7 @@
 ## CONFIG
 
 * ### You can choose which effects will be applied through the configuration file.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1303631218977538048/SPEED_GAIN_FIX_config_V1.1.png?ex=672fc06e&is=672e6eee&hm=b3a70e69200bd21ecfa9ac3cc017d70213865cbee4a415b85062aa31e838d17e&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1303631218977538048/SPEED_GAIN_FIX_config_V1.1.png?ex=672c74ae&is=672b232e&hm=c2f818ce0af859c07f3faf8888dc4f3f5a347f0362ecff74fe1e014c50535906&)
 
 ## PREVIEW
 
@@ -57,8 +57,8 @@
 ### 1.1
 
 * Changed the method for selecting flags, now each flag has an identifier;
-* Added a blacklist to include vehicles that will not be affected by the flags, even if they have 'CCarHandlingData' present in their handling.
-
+* Added a blacklist to include vehicles that will not be affected by the flags, even if they have 'CCarHandlingData' present in their handling;
+* Changed the logic of applying flags.
 
 # COPYRIGHT
 
