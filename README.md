@@ -42,7 +42,7 @@
 ## CONFIG
 
 * ### You can choose which effects will be applied through the configuration file.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1311193976237461524/config.png?ex=6747f80c&is=6746a68c&hm=a856f6b7204bd179a5c351ea241b833befb5a44f9a7025f811577fd24fb0d54b&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1311196211927191593/config.png?ex=6747fa21&is=6746a8a1&hm=de423a148144be9b9b22126e9047d801b6da4cd94355b805f3da61ba8119fa27&)
 
 ## PREVIEW
 
