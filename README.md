@@ -1,6 +1,6 @@
 # SPEED GAIN FIX [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1297647826863521802/SPEED_GAIN_FIX.png?ex=674777b7&is=67462637&hm=ced0d669e6f5d05da6e9df3746f5010c06552a85075d25043442abc7e0206b90&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1312264263783677963/SPEED_GAIN_FIX.png?ex=674bdcd5&is=674a8b55&hm=a7e76603f165186ffcbd80f7970edb7b8679f8401cbe2deee794f95ce1882941&)
 
 ## DESCRIPTION
 
@@ -14,7 +14,7 @@
 
 ## DOWNLOAD
 
-* [TEBEX](https://dking.tebex.io/package/6511460)
+* [TEBEX](https://dking.tebex.io/package/6562200)
 
 ## HOW TO INSTALL
 
@@ -42,7 +42,7 @@
 ## CONFIG
 
 * ### You can choose which effects will be applied through the configuration file.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1311196211927191593/config.png?ex=6747fa21&is=6746a8a1&hm=de423a148144be9b9b22126e9047d801b6da4cd94355b805f3da61ba8119fa27&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1311196211927191593/config.png?ex=674b45e1&is=6749f461&hm=4aefcefbdcbf404b6a8f10376a2f345d78e9e57b1290602e1abdf0e2c6c22489&)
 
 ## PREVIEW
 
