@@ -12,9 +12,9 @@
 * Removes speed gain when using double clutching.
 * Remove tire related bugs, such as the off-road tire increasing grip and preventing the vehicle from being lowered by shooting the wheels/suspension.
 
-## DOWNLOAD
+## GET NOW
 
-* [TEBEX](https://dking.tebex.io/package/6562200)
+* [DOWNLOAD](https://dking.tebex.io/package/6562200)
 
 ## HOW TO INSTALL
 
