@@ -45,7 +45,7 @@
 
 * ### You can choose which effects will be applied through the configuration file.
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315403103490805801/config_512.png?ex=679d279a&is=679bd61a&hm=0e56d0902ad772dfcd7b228d8266e7100163a84ebf1a2cc5b077911ef9326985&" width="400px" />
+<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315403103490805801/config_512.png?ex=679d279a&is=679bd61a&hm=0e56d0902ad772dfcd7b228d8266e7100163a84ebf1a2cc5b077911ef9326985&" width="500px" />
 </div>
 
 ## PREVIEW
