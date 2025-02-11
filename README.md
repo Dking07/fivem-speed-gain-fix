@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-### Fix Vehicles Speeds Gain.
+### Fix Vehicles Speed Gain.
 
 ## CHANGES
 
