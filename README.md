@@ -1,7 +1,7 @@
 # SPEED GAIN FIX [STANDALONE]
 
 <div align="center">
-<img src="https://imgur.com/a/tI3oKPF" width="500px" />
+<img src="https://drive.google.com/file/d/1k47HGr48z2W7IfAsQMtU5Bh-Op57KCoj/view?usp=sharing" width="500px" />
 </div>
 
 ## DESCRIPTION
