@@ -1,7 +1,7 @@
 # SPEED GAIN FIX [STANDALONE]
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315402912540655646/SPEED_GAIN_FIX_512.png?ex=67a7b36d&is=67a661ed&hm=2a83795e8787568e779616f641dae08a8c72a8019b0d78c764623439db0ab2c2&" width="500px" />
+<img src="https://imgur.com/a/tI3oKPF" width="500px" />
 </div>
 
 ## DESCRIPTION
