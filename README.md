@@ -1,7 +1,7 @@
 # SPEED GAIN FIX [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Speed%20Gain%20Fix/SPEED%20GAIN%20FIX.png" width="500px" />
+<img src="https://github.com/Dking07/fivem-speed-gain-fix/blob/main/thumb.png" width="500px" />
 </div>
 
 ## DESCRIPTION
@@ -45,7 +45,7 @@
 
 * ### You can choose which effects will be applied through the configuration file.
 <div align="left">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Speed%20Gain%20Fix/config.png" width="500px" />
+<img src="https://github.com/Dking07/fivem-speed-gain-fix/blob/main/config.png" width="500px" />
 </div>
 
 ## PREVIEW
