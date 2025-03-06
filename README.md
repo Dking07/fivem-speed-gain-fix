@@ -68,6 +68,10 @@
 
 * Added presets option. Now you can create presets with specific flags and vehicles.
 
+### 1.3
+
+* Improved the way flags are applied.
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
