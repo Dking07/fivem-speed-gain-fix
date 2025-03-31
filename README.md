@@ -72,6 +72,10 @@
 
 * Improved the way flags are applied.
 
+### 1.4
+
+* Added a alternative to Disable Double Clutch.
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
