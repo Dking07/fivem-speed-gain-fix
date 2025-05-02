@@ -22,7 +22,7 @@
 
 * [Download](https://keymaster.fivem.net/asset-grants) script;
 * Place it in the resources folder;
-* Add 'ensure dk_speed_gain_fix' (without quotes) to server.cfg.
+* Add 'ensure dking_speed_gain_fix' (without quotes) to server.cfg.
 
 ## HOW TO USE
 
