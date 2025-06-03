@@ -32,7 +32,7 @@
 
 * Remove the 'fDownforceModifier' line if it exists; (It's not necessary, but I recommend it)
 * Add CCarHandlingData in the SubHandlingData section, like this:
-    ```
+    ```xml
     <SubHandlingData>
         <Item type="CCarHandlingData">
         </Item>
@@ -75,6 +75,10 @@
 ### 1.4
 
 * Added a alternative to Disable Double Clutch.
+
+### 1.4.2
+
+* Added a blacklist for vehicles that will not be affected by the alternative to Disable Double Clutch.
 
 # COPYRIGHT
 
