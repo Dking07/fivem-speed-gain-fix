@@ -52,9 +52,9 @@
 
 * [YouTube](https://www.youtube.com/watch?v=fsVIcKNVZi0)
 
-## Discord
+## SUPPORT
 
-### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+### [Discord](https://discord.gg/Rw6vjcXspG)
 
 ## CHANGELOGS
 
