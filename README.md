@@ -80,6 +80,10 @@
 
 * Added a blacklist for vehicles that will not be affected by the alternative to Disable Double Clutch.
 
+### 1.4.3
+
+* Improved `DisableDoubleClutch`.
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
