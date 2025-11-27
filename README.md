@@ -45,7 +45,7 @@
 
 * ### You can choose which effects will be applied through the configuration file.
 <div align="left">
-<img src="user-attachments/assets/fa30b61a-4d57-43a4-bed1-4bdfd54a6e14" width="500px" />
+<img src="https://github.com/Dking07/user-attachments/assets/fa30b61a-4d57-43a4-bed1-4bdfd54a6e14" width="500px" />
 </div>
 
 ## PREVIEW
