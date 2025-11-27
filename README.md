@@ -20,9 +20,9 @@
 
 ## HOW TO INSTALL
 
-* [Download](https://keymaster.fivem.net/asset-grants) script;
+* [Download](https://portal.cfx.re/assets/granted-assets) script;
 * Place it in the resources folder;
-* Add 'ensure dking_speed_gain_fix' (without quotes) to server.cfg.
+* Add 'ensure dking_speedgainfix' (without quotes) to server.cfg.
 
 ## HOW TO USE
 
@@ -45,7 +45,7 @@
 
 * ### You can choose which effects will be applied through the configuration file.
 <div align="left">
-<img src="https://github.com/user-attachments/assets/fa30b61a-4d57-43a4-bed1-4bdfd54a6e14" width="500px" />
+<img src="user-attachments/assets/fa30b61a-4d57-43a4-bed1-4bdfd54a6e14" width="500px" />
 </div>
 
 ## PREVIEW
