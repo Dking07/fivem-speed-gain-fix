@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-### Fix Vehicles Speed Gain.
+System for removing unrealistic speed gains from vehicles.
 
 ## CHANGES
 
@@ -58,32 +58,54 @@
 
 ## CHANGELOGS
 
-### 1.1
+<details>
+  <summary><h2 style="display: inline;">Expand</h2></summary>
 
-* Changed the method for selecting flags, now each flag has an identifier;
-* Added a blacklist to include vehicles that will not be affected by the flags, even if they have 'CCarHandlingData' present in their handling;
-* Changed the logic of applying flags.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.1</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Changed the method for selecting flags, now each flag has an identifier;</li>
+      <li>Added a blacklist to include vehicles that will not be affected by the flags, even if they have 'CCarHandlingData' present in their handling;</li>
+      <li>Changed the logic of applying flags.</li>
+    </ul>
+  </details>
 
-### 1.2
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added presets option. Now you can create presets with specific flags and vehicles.</li>
+    </ul>
+  </details>
 
-* Added presets option. Now you can create presets with specific flags and vehicles.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Improved the way flags are applied.</li>
+    </ul>
+  </details>
 
-### 1.3
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.4</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added a alternative to Disable Double Clutch.</li>
+    </ul>
+  </details>
 
-* Improved the way flags are applied.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.4.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added a blacklist for vehicles that will not be affected by the alternative to Disable Double Clutch.</li>
+    </ul>
+  </details>
 
-### 1.4
-
-* Added a alternative to Disable Double Clutch.
-
-### 1.4.2
-
-* Added a blacklist for vehicles that will not be affected by the alternative to Disable Double Clutch.
-
-### 1.4.3
-
-* Improved `DisableDoubleClutch`.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.4.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Improved <code>DisableDoubleClutch</code>.</li>
+    </ul>
+  </details>
+</details>
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2025 ©
+## BY [DKING](https://github.com/Dking07) 2026 ©
