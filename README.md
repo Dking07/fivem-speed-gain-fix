@@ -111,6 +111,13 @@ System for removing unrealistic speed gains from vehicles.
       <li>Added class blacklist to <code>DisableDoubleClutch</code>.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.4.7</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Improvements and optimizations in <code>DisableDoubleClutch</code>.</li>
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
